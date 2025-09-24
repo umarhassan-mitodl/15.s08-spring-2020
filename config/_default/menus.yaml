@@ -1,0 +1,86 @@
+leftnav:
+- identifier: 6bed2c3a-c8ab-6eac-87fd-bb7feed44f8e
+  name: Syllabus & Calendar
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights-1/
+  weight: 20
+- identifier: cbc918dc-4a0a-57f2-0951-a5f222bcc53d
+  name: What is FinTech?
+  pageRef: /pages/instructor-insights-1/what-is-fintech
+  parent: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
+  weight: 30
+- identifier: 2fd516e6-5f34-a33c-3940-82ebc8884456
+  name: The Role of AI in FinTech
+  pageRef: /pages/instructor-insights-1/the-role-of-ai-in-fintech
+  parent: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
+  weight: 40
+- identifier: 60698cf6-b1cb-cb1f-e7c6-997ba589cd49
+  name: Writing a Chief Executive Memo
+  pageRef: /pages/instructor-insights-1/writing-a-chief-executive-memo
+  parent: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
+  weight: 50
+- identifier: d5f6018e-0fcd-9924-9fe1-e9bbeb88c237
+  name: Teaching Remotely
+  pageRef: /pages/instructor-insights-1/teaching-remotely
+  parent: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
+  weight: 60
+- identifier: 0b231366-57ca-bf22-21e6-79bc652e6888
+  name: Cultivating Professionalism
+  pageRef: /pages/instructor-insights-1/cultivating-professionalism
+  parent: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
+  weight: 70
+- identifier: 54493b98-1a01-f569-b086-244f83bc4e9c
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: d1137a3f-00d1-4edf-8ae8-2354d5a6780e
+  name: 'Class 1: Intro & Key Technological Trends'
+  pageRef: /pages/intro-and-key-trends
+  weight: 90
+- identifier: 54a2f116-5743-edf7-42dd-298e699e2192
+  name: 'Class 2: Artificial Intelligence and Machine Learning'
+  pageRef: /pages/ai-machine-learning
+  weight: 100
+- identifier: 08f981c2-b337-4ef0-86d4-2ff9f9fee8c9
+  name: 'Class 3: Artificial Intelligence in Finance'
+  pageRef: /pages/class-3-artificial-intelligence-in-finance
+  weight: 110
+- identifier: 5d8d0367-2acd-ddb3-3d4a-45c1bb21491c
+  name: 'Class 4: Open API & Marketing Channels'
+  pageRef: /pages/class-4-open-apis-marketing-channels
+  weight: 120
+- identifier: 0a8d9cfc-ad5e-f39b-57a5-a8db9904080b
+  name: 'Class 5: Blockchain Technology & Cryptocurrencies'
+  pageRef: /pages/class-5-blockchain-technology-cryptocurrencies
+  weight: 130
+- identifier: f7c0b962-1c85-ccf9-045d-502e6a3e74f7
+  name: 'Class 6: Payments'
+  pageRef: /pages/class-6-payments
+  weight: 140
+- identifier: fbd7d155-5944-ed52-8bfd-703d1de98571
+  name: 'Class 7: Credit & Lending'
+  pageRef: /pages/class-7-credit-lending
+  weight: 150
+- identifier: 25177263-aec8-b8ce-4bb8-d9580215f10d
+  name: 'Class 8: Challenger Banks'
+  pageRef: /pages/class-8-challenger-banks
+  weight: 160
+- identifier: ce6ffa51-c77a-d7f6-6d44-cb2255794946
+  name: 'Class 9: Trading & Capital Markets'
+  pageRef: /pages/class-9-trading-capital-markets
+  weight: 170
+- identifier: 5fc888a5-8aca-c5ba-e72f-e1b23d480b16
+  name: 'Class 10: Insurance'
+  pageRef: /pages/class-10-insurance
+  weight: 180
+- identifier: 58b53ba3-354b-c393-e707-10965ee04c93
+  name: 'Class 11: Coronavirus Crisis & Finance'
+  pageRef: /pages/class-11-coronavirus-crisis-finance
+  weight: 190
+- identifier: f3d1b8ea-3adf-ed14-1a72-a9f45d5dfb7f
+  name: 'Class 12: Conclusion'
+  pageRef: /pages/class-12-conclusion
+  weight: 200
