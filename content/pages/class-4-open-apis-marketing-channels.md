@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section contains the lecture video, slides, readings, and study
   questions for the topic of Open APIs & Marketing Channels. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 4: Open API & Marketing Channels'

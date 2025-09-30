@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://www.americanbanker.com/slideshow/get-to-know-your-marketplace-lenders
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Get to Know Your Marketplace Lenders

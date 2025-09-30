@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section contains the vide, lecture slides, readings, and study
   questions for Class #2. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 2: Artificial Intelligence, Machine Learning, and Deep Learning'

@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section contains the video, lecture slides, and study questions
   for the last class. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 12: Conclusion'

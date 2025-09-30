@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://home.bluesnap.com/snap-center/blog/9-payment-trends-that-will-shape-2020/
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 9 Payment Trends That Will Shape 2020

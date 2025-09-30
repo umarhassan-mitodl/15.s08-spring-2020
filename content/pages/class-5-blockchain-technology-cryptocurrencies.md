@@ -3,6 +3,8 @@ content_type: page
 description: 'This section contains the video, lecture slides, readi ngs, and study
   questions for the topic of blockchain technology and cryptocurrencies. '
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 5: Blockchain Technology & Cryptocurrencies'
@@ -18,7 +20,7 @@ uid: 0a8d9cfc-ad5e-f39b-57a5-a8db9904080b
 
 ### Required Readings
 
-'{{% resource_link "3acbc7a5-2cb4-4c08-a2eb-a28bf1710cc0" "Even if a Thousand Projects Don’t Make It, Blockchain Is Still a Change Catalyst" %}}' Gary Gensler, *CoinDesk* (December 15, 2019)
+'[Even if a Thousand Projects Don’t Make It, Blockchain Is Still a Change Catalyst](https://www.coindesk.com/tech/2019/12/15/even-if-a-thousand-projects-dont-make-it-blockchain-is-still-a-change-catalyst)' Gary Gensler, *CoinDesk* (December 15, 2019)
 
 '{{% resource_link "f109e6c3-0c51-492e-b499-bbb694c431f9" "The technology of retail central bank digital currency" %}}'  Raphael Auer and Rainer Boehme, Bank of International Settlement (March 1, 2020)
 

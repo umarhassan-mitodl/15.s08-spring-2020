@@ -39,7 +39,7 @@
     "website": "15-s08-fintech-shaping-the-financial-world-spring-2020"
   },
   "course_title": "FinTech: Shaping the Financial World ",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
   "course_description": "This course about financial technology, or FinTech, is for students wishing to explore the ways in which new technologies are disrupting the financial services industry\u2014driving material change in business models, products, applications and customer user interface. Amongst the significant technological trends affecting financial services into the 2020\u2019s, the class will explore AI, deep learning, blockchain technology and open APIs.\u00a0Students will gain an understanding of the key technologies, market structure, participants, regulation and the dynamics of change being brought about by FinTech.\n",
   "department_numbers": [
@@ -51,6 +51,7 @@
     "content": "d5886db9-df67-2173-e726-788d78c8b25a",
     "website": "15-s08-fintech-shaping-the-financial-world-spring-2020"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",

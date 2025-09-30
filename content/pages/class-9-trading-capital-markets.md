@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the video, lecture slides, readings, and study
   questions on the topic of trading and capital markets.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 9: Trading & Capital Markets'
