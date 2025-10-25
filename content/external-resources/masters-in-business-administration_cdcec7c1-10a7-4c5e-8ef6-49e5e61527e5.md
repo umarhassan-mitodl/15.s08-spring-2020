@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://mitsloan.mit.edu/mba/academics/mba-curriculum
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: "Master\u2019s in Business Administration"

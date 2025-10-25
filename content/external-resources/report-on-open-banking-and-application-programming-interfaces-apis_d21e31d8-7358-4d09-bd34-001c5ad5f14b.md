@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://www.bis.org/bcbs/publ/d486.htm
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Report on open banking and application programming interfaces (APIs)

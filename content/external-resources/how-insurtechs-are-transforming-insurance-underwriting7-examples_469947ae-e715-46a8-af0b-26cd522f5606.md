@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://insuranceblog.accenture.com/how-insurtechs-are-transforming-insurance-underwriting-7-examples
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: "How Insurtechs are Transforming Insurance Underwriting\u20147 Examples"

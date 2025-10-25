@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section contains the video, lecture slides, readings, and study
   questions for the class about payments. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 6: Payments'

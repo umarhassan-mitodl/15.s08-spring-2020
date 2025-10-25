@@ -3,8 +3,6 @@ content_type: page
 description: In this section, Prof. Gensler discusses how he sees 15.S08 as an opportunity
   to help his students cultivate the skills and habits they are likely to need in
   their future careers.
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
