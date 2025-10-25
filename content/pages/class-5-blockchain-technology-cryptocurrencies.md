@@ -3,8 +3,6 @@ content_type: page
 description: 'This section contains the video, lecture slides, readi ngs, and study
   questions for the topic of blockchain technology and cryptocurrencies. '
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 5: Blockchain Technology & Cryptocurrencies'
