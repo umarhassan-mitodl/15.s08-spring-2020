@@ -18,7 +18,7 @@ uid: 0a8d9cfc-ad5e-f39b-57a5-a8db9904080b
 
 ### Required Readings
 
-'[Even if a Thousand Projects Don’t Make It, Blockchain Is Still a Change Catalyst](https://www.coindesk.com/tech/2019/12/15/even-if-a-thousand-projects-dont-make-it-blockchain-is-still-a-change-catalyst)' Gary Gensler, *CoinDesk* (December 15, 2019)
+'{{% resource_link "07436a9e-4035-4d4a-8d94-a70f83dc89aa" "Even if a Thousand Projects Don’t Make It, Blockchain Is Still a Change Catalyst" %}}' Gary Gensler, *CoinDesk* (December 15, 2019)
 
 '{{% resource_link "f109e6c3-0c51-492e-b499-bbb694c431f9" "The technology of retail central bank digital currency" %}}'  Raphael Auer and Rainer Boehme, Bank of International Settlement (March 1, 2020)
 
